@@ -1,0 +1,74 @@
+/** @format */
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+}
+#myBtn:hover {
+  background-color: darkgreen;
+  color: white;
+}
+footer {
+  display: block;
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+
+#about {
+  font-size: 40px;
+  color: grey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 5%;
+  text-align: center;
+}
+#add {
+  padding-left: 18%;
+  padding-bottom: 35%;
+  font-size: 25px;
+  color: darkgrey;
+}
+#table {
+  background-color: #ebf8fd;
+  width: 100%;
+}
+#map {
+  width: 55%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  padding-left: 5%;
+}
+iframe {
+  border: 0;
+  width: 90%;
+  height: 450px;
+}
+#address {
+  width: 55%;
+  padding-top: 12%;
+  padding-bottom: 10%;
+  padding-left: 2%;
+}
+.class {
+  color: grey;
+  font-size: 20px;
+  padding-right: 35%;
+}
