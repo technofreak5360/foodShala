@@ -1,0 +1,8 @@
+# foodShala
+1)Open Xamp or WAMP.
+2)Create a database naming "foodorder".
+3)import foodorder.sql file.
+4)For the user section go to “http://localhost/Online-Food-Order/userlogin.php”
+5)For the admin section go to “http://localhost/Online-Food-Order/managerlogin.php”
+ 
+** Internet connection required for some of the feautres.
